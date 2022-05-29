@@ -1,14 +1,10 @@
 # setup
-vscode, github
+## vscode, github
 
-## 👩‍💻 setup vscode 
-
-Badge | URL
------------- | -------------
- <a href="https://github.com/sing3demons/awesome-go"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> </a> | <a href="https://github.com/sing3demons/go-docker-mysql/blob/main/README.md">go - docker - mysql</a>
 
 
 <br/>
+
 ## git commit -m 
 - feat (✨): ฟีเจอร์ใหม่ 
 - fix (🐛): แก้ไขบัค
@@ -34,6 +30,7 @@ refactor: remove unnecessary else after return
 <br/>
 
 <hr>
+
 ### Setup vscode React  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 
 cmd + shift + p > Preferences: Open Workspace Settings (JSON)
@@ -76,9 +73,8 @@ yarn add -D eslint-plugin-prettier eslint-config-prettier prettier
 ```
 
 <hr>
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 
-# Setup vscode Vue 👋
+# Setup vscode Vue ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 
 ## setting.json
 ```json
@@ -106,11 +102,12 @@ yarn add -D eslint-plugin-prettier eslint-config-prettier prettier
 }
 ```
 <hr>
+
 # Dockerfile
 ```
 Dockerfile
 ```
-```
+```Dockerfile
 FROM golang:alpine
 
 RUN mkdir /app
